@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{34A385A0-FD04-43DC-A12C-D18429F4A033}"
+	ProjectSection(SolutionItems) = preProject
+		.paket\paket.bootstrapper.exe = .paket\paket.bootstrapper.exe
+		paket.dependencies = paket.dependencies
+		.paket\paket.exe = .paket\paket.exe
+		paket.lock = paket.lock
+		.paket\paket.targets = .paket\paket.targets
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaketBox", "PaketBox\PaketBox.csproj", "{EBECCD5E-56DE-430B-BC04-F2818CC06F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

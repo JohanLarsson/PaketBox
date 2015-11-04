@@ -1,0 +1,4 @@
+source https://www.nuget.org/api/v2/
+nuget JetBrains.Annotations
+
+gist JohanLarsson/23f129d38a79c7b685ca#file-ensure-cs Ensure.cs
