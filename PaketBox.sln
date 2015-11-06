@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{34A385
 		.paket\paket.exe = .paket\paket.exe
 		paket.lock = paket.lock
 		.paket\paket.targets = .paket\paket.targets
-		Readme.txt = Readme.txt
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaketBox", "PaketBox\PaketBox.csproj", "{EBECCD5E-56DE-430B-BC04-F2818CC06F42}"

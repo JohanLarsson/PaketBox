@@ -1,4 +1,2 @@
 ﻿type project
 licenseUrl http://opensource.org/licenses/MIT
-files
-    bin\Release\PaketBox.Wpf.* ==> lib\net45
