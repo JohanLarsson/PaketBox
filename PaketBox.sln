@@ -19,14 +19,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaketBox.Wpf", "PaketBox.Wp
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CreatePackages|Any CPU = CreatePackages|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.CreatePackages|Any CPU.ActiveCfg = CreatePackages|Any CPU
+		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.CreatePackages|Any CPU.Build.0 = CreatePackages|Any CPU
 		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBECCD5E-56DE-430B-BC04-F2818CC06F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DC02D7-2589-4043-BD8F-BDCFFCD74C8E}.CreatePackages|Any CPU.ActiveCfg = CreatePackages|Any CPU
+		{54DC02D7-2589-4043-BD8F-BDCFFCD74C8E}.CreatePackages|Any CPU.Build.0 = CreatePackages|Any CPU
 		{54DC02D7-2589-4043-BD8F-BDCFFCD74C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54DC02D7-2589-4043-BD8F-BDCFFCD74C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DC02D7-2589-4043-BD8F-BDCFFCD74C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
